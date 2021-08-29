@@ -3,6 +3,7 @@ class star{
            public static void main(String[] args){
            System.out.println("This is my first program rangbazi");
            System.out.println("Second line added to the program");
+           System.out.println("Third line added to the program updated on the remote repo");
 }
 }
 
