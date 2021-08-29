@@ -1,0 +1,6 @@
+Class { 
+
+           public static void main(String[] args){
+           System.out.println("common people does not know that mars in solar system");
+}
+} 
